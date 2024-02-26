@@ -1,2 +1,2 @@
 # wassup2
-estSOFT boot_camp study
+eastSOFT boot_camp study
